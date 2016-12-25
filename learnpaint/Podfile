@@ -1,0 +1,24 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+platform:ios, '8.0'
+
+target "learnpaint" do
+
+pod 'Google-Mobile-Ads-SDK'
+pod 'MBProgressHUD'
+pod 'ActionSheetPicker-3.0'
+pod 'FormatterKit'
+pod 'UIImageEffects'
+pod 'THSegmentedPager'
+pod 'AVOSCloud'
+pod 'AVOSCloudCrashReporting'
+pod 'ChameleonFramework'
+pod 'TAPromotee'
+pod 'DZNEmptyDataSet'
+pod 'UITableView+FDTemplateLayoutCell'
+pod 'AFNetworking'
+pod 'LeanCloudSocial'
+pod 'LZAlertViewHelper'
+
+
+end
